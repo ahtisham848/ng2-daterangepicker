@@ -3,6 +3,7 @@
   "version": "2.0.12",
   "description": "Angular 2 DaterangePicker component",
   "scripts": {
+    "prepare": "rm -rf lib && \"node_modules/.bin/ngc\" -p tsconfig-aot.json",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
