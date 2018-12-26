@@ -1,6 +1,6 @@
 .daterangepicker {
     position: absolute;
-    color: #111;
+    color: red;
     background: #fff;
     border-radius: 4px;
     width: 278px;
@@ -8,6 +8,7 @@
     margin-top: 1px;
     top: 100px;
     left: 20px;
+    z-index: 9999;
     /* Calendars */
 }
 
