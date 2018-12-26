@@ -27,7 +27,8 @@
     "index.js",
     "index.d.ts",
     "daterangepicker.component.css",
-    "lib/*"
+    "lib/*",
+    "node_modules/*"
   ],
   "main": "./index.js",
   "types": "./index.d.ts",
